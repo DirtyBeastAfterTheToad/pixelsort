@@ -1,0 +1,14 @@
+#Python
+*.pyc
+
+#VirtualEnv
+venv
+
+#PyCharm
+.idea
+
+#VSCode
+.vscode
+
+#Output images in root (examples are not ignored)
+/*.png
